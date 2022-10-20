@@ -1,6 +1,7 @@
 #   Guide-for-uploading-big-files(>25)
 
-1. Download and Install "git fast version control"  URL: https://git-scm.com/downloads
+1. Download and Install "git fast version control"  
+URL: https://git-scm.com/downloads
 2. Download and install "Git Large File Storage"
 
     URL: https://git-lfs.github.com/
