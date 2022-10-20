@@ -31,7 +31,9 @@
  Error handling:
 
  1. fatal: ‘origin’ does not appear to be a git repository
+
     Answer: 
+
     --- copy the URL link of your repository from the Github site – 
     --- click on Code tab > copy the HTTPS URL
     --- Type > Enter > Type: 
@@ -39,6 +41,7 @@
            --  git push origin master
             
  2. “! [rejected]        master -> master (fetch first)
+
      Answer:
      
         First type this:
