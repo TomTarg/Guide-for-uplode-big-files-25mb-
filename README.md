@@ -1,4 +1,4 @@
-# Guide-for-uplode-big-files-25mb-
+#   Guide-for-uploading-big-files(>25)
 
 1. Download and Install "git fast version control"
 
