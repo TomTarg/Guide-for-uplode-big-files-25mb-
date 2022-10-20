@@ -1,15 +1,17 @@
 # Guide-for-uplode-big-files-25mb-
 
 1. Download and Install "git fast version control"
+2. 
     URL: https://git-scm.com/downloads
 2. Download and install "Git Large File Storage"
+3. 
     URL: https://git-lfs.github.com/
 3. Click on Search icon in Windows desktop ( on the left down corner) and search for Command Prompt
 4. Type:
-    git lfs install
-5. Type inside the brackets your file path: 
-    cd "C:\Users\Desktop\DataFiles"
-6. Type inside the brackets your a file name with a file type after the dot:
+5.     git lfs install
+6. Type inside the brackets your file path: 
+7.     cd "C:\Users\Desktop\DataFiles"
+8. Type inside the brackets your a file name with a file type after the dot:
     git lfs track "filename.csv"
 7. Type one after another:
     git add .gitattributes
@@ -19,7 +21,7 @@
     
  Error handling:
  1. fatal: ‘origin’ does not appear to be a git repository
-    answer: 
+    Answer: 
     --- copy the URL link of your repository from the Github site – 
     --- click on Code tab > copy the HTTPS URL
     --- Type > Enter > Type: 
@@ -27,7 +29,8 @@
            --  git push origin master
             
  2. “! [rejected]        master -> master (fetch first)
-        answer:
+     Answer:
+     
         First type this:
             git fetch origin master
             git merge  master
