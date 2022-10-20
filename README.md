@@ -9,6 +9,7 @@
 3. Click on Search icon in Windows desktop ( on the left down corner) and search for Command Prompt
 
 4. Type:
+
      git lfs install
 6. Type inside the brackets your file path: 
 
@@ -19,8 +20,11 @@
 7. Type one after another:
 
     git add .gitattributes
+
     git add file.psd
+
     git commit -m "Add design file"
+
     git push origin master
     
     
