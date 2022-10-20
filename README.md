@@ -2,9 +2,8 @@
 
 1. Download and Install "git fast version control"  
 URL: https://git-scm.com/downloads
-2. Download and install "Git Large File Storage"
-
-    URL: https://git-lfs.github.com/
+2. Download and install "Git Large File Storage"  
+URL: https://git-lfs.github.com/
 3. Click on Search icon in Windows desktop ( on the left down corner) and search for Command Prompt
 
 4. Type:
