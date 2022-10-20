@@ -34,10 +34,14 @@
 
     Answer: 
 
-    --- copy the URL link of your repository from the Github site – 
+    --- copy the URL link of your repository from the Github site 
+
     --- click on Code tab > copy the HTTPS URL
+
     --- Type > Enter > Type: 
+
            -- git remote add origin "HTTPS_URL"
+
            --  git push origin master
             
  2. “! [rejected]        master -> master (fetch first)
